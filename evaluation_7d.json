@@ -1,0 +1,9 @@
+{
+  "model_version": "v1.0-histgradboost",
+  "target": "daily_admissions",
+  "horizon": 7,
+  "sample_count": 69,
+  "MAE": 1.9868,
+  "RMSE": 2.4535,
+  "interval_coverage": 0.5797
+}
